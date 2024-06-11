@@ -4,6 +4,10 @@
 
 O NT é um micro-framework simples de alta performance para construir sites utilizando componentes pré-definidos baseado em SASS e SCSS. Este documento guiará você na instalação do NT e na configuração do ambiente de desenvolvimento.
 
+## Consideração importante
+
+O arquivo "index.html" é um site para a referência do uso do micro-framework.
+
 ## Índice
 
 1. [Instalação](#instalação)
